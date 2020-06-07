@@ -1,0 +1,41 @@
+.title{
+ font-weight: bold;
+ background-color:rgb(238, 223, 225);
+ text-shadow: 3px 0px 11px rgba(225, 71, 101, 1);
+}
+
+.corona{
+ margin-left:-12vh; 
+  margin-top:5vh;
+}
+
+form #resposta{
+  border: 2px solid black;
+  margin-top: 4vh;
+
+}
+
+#letra{
+  margin-left:1.5vh;
+  font-weight: bold;
+  margin-top: 2.5vh;
+  width: 6vh;
+}
+
+#apagar{
+  width: 13vh;
+  margin-left:2vh;
+}
+
+#responder{
+  border-radius: 4vh;
+  margin-top: 4vh;
+  font-size:3vh;
+  font-weight: bold;
+
+}
+
+#responder:hover {
+background-color:red;
+color: white;
+}
