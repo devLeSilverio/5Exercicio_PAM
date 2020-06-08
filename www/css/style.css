@@ -6,19 +6,20 @@
 
 .corona{
  margin-left:-12vh; 
-  margin-top:5vh;
+  margin-top:6vh;
 }
 
 form #resposta{
   border: 2px solid black;
   margin-top: 4vh;
+  font-weight: bold;
 
 }
 
-#letra{
+.letra{
   margin-left:1.5vh;
   font-weight: bold;
-  margin-top: 2.5vh;
+  margin-top: 3vh;
   width: 6vh;
 }
 
